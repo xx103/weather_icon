@@ -1,0 +1,95 @@
+weather_description,count,prediction,label
+Partly cloudy throughout the day.,440356,cloudy,cloudy
+Clear conditions throughout the day.,304506,sunny,sunny
+Partly cloudy throughout the day with rain.,154386,rain,rain
+Becoming cloudy in the afternoon.,90999,cloudy,cloudy
+Partly cloudy throughout the day with late afternoon rain.,66905,rain,rain
+Partly cloudy throughout the day with a chance of rain throughout the day.,65686,rain,cloudy
+Cloudy skies throughout the day with a chance of rain throughout the day.,64031,rain,cloudy
+Clearing in the afternoon.,55938,sunny,sunny
+Partly cloudy throughout the day with early morning rain.,46745,rain,rain
+Cloudy skies throughout the day with rain.,46652,rain,rain
+Partly cloudy throughout the day with rain clearing later.,45649,rain,rain
+Partly cloudy throughout the day with afternoon rain.,45549,rain,rain
+Clear conditions throughout the day with afternoon rain.,41317,rain,rain
+Clear conditions throughout the day with rain.,39875,rain,rain
+Partly cloudy throughout the day with rain in the morning and afternoon.,36333,rain,rain
+Partly cloudy throughout the day with morning rain.,30368,rain,rain
+Partly cloudy throughout the day with rain or snow.,25654,rain or snow,rain or snow
+Cloudy skies throughout the day.,25147,cloudy,cloudy
+Becoming cloudy in the afternoon with rain.,21076,rain,rain
+Clear conditions throughout the day with morning rain.,19976,rain,rain
+Becoming cloudy in the afternoon with late afternoon rain.,15688,rain,rain
+Clear conditions throughout the day with late afternoon rain.,14697,rain,rain
+Clear conditions throughout the day with rain in the morning and afternoon.,14254,rain,rain
+Cloudy skies throughout the day with a chance of rain or snow throughout the day.,13571,rain or snow,cloudy
+Clearing in the afternoon with rain.,11791,rain,rain
+Cloudy skies throughout the day with rain clearing later.,11248,rain,rain
+Becoming cloudy in the afternoon with afternoon rain.,10881,rain,rain
+Partly cloudy throughout the day with a chance of rain or snow throughout the day.,9158,rain or snow,cloudy
+Clearing in the afternoon with late afternoon rain.,8907,rain,rain
+Cloudy skies throughout the day with late afternoon rain.,8446,rain,rain
+Cloudy skies throughout the day with early morning rain.,8172,rain,rain
+Cloudy skies throughout the day with rain in the morning and afternoon.,7985,rain,rain
+Partly cloudy throughout the day with rain or snow clearing later.,7967,rain or snow,rain or snow
+Cloudy skies throughout the day with afternoon rain.,7670,rain,rain
+Clearing in the afternoon with rain clearing later.,7592,rain,rain
+Cloudy skies throughout the day with rain or snow.,6735,rain or snow,rain or snow
+Clearing in the afternoon with afternoon rain.,6446,rain,rain
+Clearing in the afternoon with a chance of rain throughout the day.,6228,rain,sunny
+Clearing in the afternoon with early morning rain.,5918,rain,rain
+Clear conditions throughout the day with rain or snow.,4969,rain or snow,rain or snow
+Partly cloudy throughout the day with afternoon rain or snow.,4826,rain or snow,rain or snow
+Becoming cloudy in the afternoon with rain or snow.,4665,rain or snow,rain or snow
+Clearing in the afternoon with morning rain.,4645,rain,rain
+Partly cloudy throughout the day with late afternoon rain or snow.,4447,rain or snow,rain or snow
+Partly cloudy throughout the day with rain or snow in the morning and afternoon.,4207,rain or snow,rain or snow
+Clear conditions throughout the day with a chance of rain throughout the day.,4115,rain,sunny
+Cloudy skies throughout the day with morning rain.,4041,rain,rain
+Clear conditions throughout the day with late afternoon rain or snow.,3562,rain or snow,rain or snow
+Partly cloudy throughout the day with morning rain or snow.,3501,rain or snow,rain or snow
+Clear conditions throughout the day with early morning rain.,3476,rain,rain
+Clear conditions throughout the day with afternoon rain or snow.,3447,rain or snow,rain or snow
+Partly cloudy throughout the day with early morning snow or rain.,3298,rain or snow,rain or snow
+Becoming cloudy in the afternoon with rain in the morning and afternoon.,3283,rain,rain
+Partly cloudy throughout the day with snow.,3224,snow,snow
+Becoming cloudy in the afternoon with early morning rain.,3124,rain,rain
+Becoming cloudy in the afternoon with a chance of rain throughout the day.,3090,rain,cloudy
+Clearing in the afternoon with rain in the morning and afternoon.,2656,rain,rain
+Clearing in the afternoon with a chance of rain or snow throughout the day.,2342,rain or snow,sunny
+Cloudy skies throughout the day with snow.,2248,snow,snow
+Partly cloudy throughout the day with morning snow.,2030,snow,snow
+Clear conditions throughout the day with rain clearing later.,1919,rain,rain
+Clear conditions throughout the day with morning rain or snow.,1820,rain or snow,rain or snow
+Clear conditions throughout the day with rain or snow in the morning and afternoon.,1794,rain or snow,rain or snow
+Partly cloudy throughout the day with early morning snow.,1650,snow,snow
+Cloudy skies throughout the day with early morning snow or rain.,1486,rain or snow,rain or snow
+Becoming cloudy in the afternoon with morning rain.,1427,rain,rain
+Clearing in the afternoon with rain or snow.,1345,rain or snow,rain or snow
+Cloudy skies throughout the day with rain or snow clearing later.,1232,rain or snow,rain or snow
+Clear conditions throughout the day with snow.,1207,snow,snow
+Clear conditions throughout the day with morning snow.,1128,snow,snow
+Clearing in the afternoon with early morning snow.,1103,snow,snow
+Cloudy skies throughout the day with rain or snow in the morning and afternoon.,1081,rain or snow,rain or snow
+Partly cloudy throughout the day with snow clearing later.,1060,snow,snow
+Becoming cloudy in the afternoon with snow.,999,snow,snow
+Clear conditions throughout the day with early morning snow or rain.,783,rain or snow,rain or snow
+Partly cloudy throughout the day with snow in the morning and afternoon.,777,snow,snow
+Clearing in the afternoon with rain or snow clearing later.,775,rain or snow,rain or snow
+Cloudy skies throughout the day with a chance of snow throughout the day.,678,snow,snow
+Becoming cloudy in the afternoon with late afternoon snow.,674,snow,snow
+Clear conditions throughout the day with afternoon snow.,669,snow,snow
+Clearing in the afternoon with early morning snow or rain.,646,rain or snow,rain or snow
+Becoming cloudy in the afternoon with morning snow.,597,snow,snow
+Clearing in the afternoon with rain or snow in the morning and afternoon.,552,rain or snow,rain or snow
+Cloudy skies throughout the day with snow in the morning and afternoon.,547,snow,snow
+Becoming cloudy in the afternoon with late afternoon rain or snow.,534,rain or snow,rain or snow
+Becoming cloudy in the afternoon with early morning snow or rain.,513,rain or snow,rain or snow
+Clear conditions throughout the day with early morning snow.,462,snow,snow
+Clear conditions throughout the day with snow clearing later.,429,snow,snow
+Clearing in the afternoon with snow clearing later.,423,snow,snow
+Partly cloudy throughout the day with afternoon snow.,307,snow,snow
+Partly cloudy throughout the day with late afternoon snow.,297,snow,snow
+Cloudy skies throughout the day with morning rain or snow.,260,rain or snow,rain or snow
+Cloudy skies throughout the day with late afternoon rain or snow.,208,rain or snow,rain or snow
+Becoming cloudy in the afternoon with rain clearing later.,148,rain,rain
